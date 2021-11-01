@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## Education🎓
+# Education🎓
   <p>MSc. <a href="http://www.nottingham.ac.uk">University of Nottingham</a></p>
   <p>BSc. <a href="http://www.qu.edu.qa">Qatar University</a></P>
  
@@ -10,7 +10,7 @@
   
  </div> 
 
-## Technologies & Tools 🔧
+# Technologies & Tools 🔧
 <div align="left">
   
 ![](https://img.shields.io/badge/Code-MATLAB-green)
