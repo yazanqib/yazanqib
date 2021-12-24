@@ -1,9 +1,9 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div align="left">
 
-My name is Yazan. I studied electrical engineering.
+My name is Yazan.
   
-Now I'm a power engineer 👷🏻⚡️ with interest in simulations 👨🏻‍💻📈 and machine learning 💻🧠.
+I'm a power engineer 👷🏻⚡️ with interest in simulations 👨🏻‍💻📈 and machine learning 💻🧠.
 
 [![Linkedin Badge](https://img.shields.io/badge/-yazanqiblawey-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yazan-qiblawey/)](https://www.linkedin.com/in/yazan-qiblawey/)
 [![Scholar Badge](https://img.shields.io/badge/-Profile-white?&logo=google&logoColor=red&link=https://scholar.google.com/citations?user=KtV0RiMAAAAJ&hl=en&authuser=1)](https://scholar.google.com/citations?user=KtV0RiMAAAAJ&hl=en&authuser=1/)
