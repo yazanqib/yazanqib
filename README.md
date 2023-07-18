@@ -3,7 +3,9 @@
 
 My name is Yazan.
   
-I'm a power engineer 👷🏻⚡️ with interest in simulations 👨🏻‍💻📈 and machine learning 💻🧠.
+I'm a power engineer 👷🏻⚡️ and PhD student with interest in simulations 👨🏻‍💻📈 and machine learning 💻🧠.
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-yazanqiblawey-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yazan-qiblawey/)](https://www.linkedin.com/in/yazan-qiblawey/)
 [![Scholar Badge](https://img.shields.io/badge/-Profile-white?&logo=google&logoColor=red&link=https://scholar.google.com/citations?user=KtV0RiMAAAAJ&hl=en&authuser=1)](https://scholar.google.com/citations?user=KtV0RiMAAAAJ&hl=en&authuser=1/)
