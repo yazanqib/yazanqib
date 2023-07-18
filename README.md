@@ -14,6 +14,7 @@ I'm a power engineer 👷🏻⚡️ and PhD student with interest in simulations
  </div> 
  
 ## Education 🎓
+  <p>PhD <a href="http://www.strath.ac.uk">University of Strathclyde (2023- now)</a></p>
   <p>MSc. <a href="http://www.nottingham.ac.uk">University of Nottingham</a></p>
   <p>BSc. <a href="http://www.qu.edu.qa">Qatar University</a></P>
  
