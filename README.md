@@ -3,7 +3,7 @@
 
 My name is Yazan.
   
-I'm a power engineer 👷🏻⚡️ and PhD student with interest in simulations 👨🏻‍💻📈 and machine learning 💻🧠.
+I'm a power system engineer 👷🏻⚡️ and PhD student with an interest in power system simulations 👨🏻‍💻📈 and machine learning 💻🧠.
 
 
 
